@@ -1,4 +1,4 @@
-package Java_Assignment_Questions.Section_5;
+package Java_Assignment_Questions.BasicJava.Section_5;
 
 public class TwenyNine {
     public static void main(String[] args) {

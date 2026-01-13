@@ -16,8 +16,5 @@ public class Employee {
         System.out.println("Employee ID :"+emp.empId);
         System.out.println("Employee Name :"+emp.empName);
         System.out.println("Employee Salary :"+emp.salary);
-    }
-
-   
-    
+    }  
 }
